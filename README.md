@@ -1,8 +1,8 @@
 # Data Visualisation in Python
 ## Authors: Sana Rasheed & Zeeshan-ul-hassan Usmani
-## Language: Urdu 
+### Language: Urdu 
 
-## Dear Readers,
+### Dear Readers,
 
 Thank you for stepping into the domain of Data Analysis. This book will help you step in the field of Data Visualisation. 
 
